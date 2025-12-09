@@ -1,1 +1,1 @@
-BC-JAVA-APJ_2.1 / Case Study / [Case study] My Product Manager
+BC-JAVA-APJ_2.1 / Case Study / [Case study] Chương trình quản lí điện thoại
